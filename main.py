@@ -1,8 +1,11 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from todo import todo_router
+
 import uvicorn
+
 app=FastAPI()
+
 origins=["http://18.209.142.96:5501", "http://18.209.142.96"]
 app.add_middleware(
     CORSMiddleware,
