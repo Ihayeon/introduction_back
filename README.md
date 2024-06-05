@@ -3,7 +3,7 @@
 
 <오픈소스>
   https://subtitle1.github.io/index.html/
-  전반적인 틀 구현
+  기본적인 틀 구현
 
   https://github.com/Eun-Sook-Kim/Interactive_Web_Page
   12번
@@ -14,3 +14,4 @@
   Vistor book 추가
     todo list 실습 응용
   
+나머지는 머리에서 나옴...
